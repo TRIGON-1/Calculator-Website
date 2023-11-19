@@ -1,0 +1,27 @@
+body{
+    /* background-image: url(Images/cb1\ \(1\).jpg); */
+    background-image: url(Images/calc.webp);
+    background-size: cover;
+    background-repeat:no-repeat;
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+}
+input{
+     width: 75px;
+     height: 50px;
+     font-size:40px;
+     border-radius: 8px;
+     margin: 15px;
+     background-color: white;
+     color: #007FFF;
+}
+.End{
+    width: 30%;
+    color: black;
+}
+.sign{
+    background-color: #007FFF;
+    color: aliceblue;
+}
